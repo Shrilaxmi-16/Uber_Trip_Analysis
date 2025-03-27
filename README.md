@@ -4,7 +4,7 @@
 # Streamlit Demo: Uber Pickups in New York City
 A [Streamlit](https://streamlit.io) demo [written in pure Python](https://github.com/streamlit/Uber_Trip_Analysis/blob/main/streamlit_app.py) to interactively visualize Uber pickups in New York City.
 
-![Final App Animation](https://github.com/streamlit/Uber_Trip_Analysis/raw/main/uber_demo.png "Uber demo")
+![Final App Animation](https://github.com/Shrilaxmi-16/Uber_Trip_Analysis/blob/main/uber_demo.png "Uber demo")
 
 ## Run this demo locally
 ```
