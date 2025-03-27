@@ -9,7 +9,7 @@ A [Streamlit](https://streamlit.io) demo [written in pure Python](https://github
 ## Run this demo locally
 ```
 pip install --upgrade streamlit
-streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/main/streamlit_app.py
+streamlit run https://raw.githubusercontent.com/streamlit/Uber_Trip_Analysis/main/streamlit_app.py
 ```
 
 ### Questions? Comments?
